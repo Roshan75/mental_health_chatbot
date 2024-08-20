@@ -1,0 +1,11 @@
+huggingface
+nltk
+joblib
+lightgbm
+matplotlib
+pandas
+scikit-learn
+seaborn
+spacy
+tensorflow
+transformers
